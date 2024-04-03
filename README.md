@@ -3,7 +3,9 @@ An ecommerce api use to manage product inventory
 
 # Getting Started
 Install all dependencies using npm install.
+
 Project will run on port 3000
+
 After installing all the dependencies write "node app.js" in the terminal
 
 # Routes
